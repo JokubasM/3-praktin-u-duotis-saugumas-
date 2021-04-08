@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 praktinė užduotis", "3 praktinė užduotis\3 praktinė užduotis.csproj", "{96119F40-F050-4C64-A8DA-F8F7172898BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96119F40-F050-4C64-A8DA-F8F7172898BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96119F40-F050-4C64-A8DA-F8F7172898BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96119F40-F050-4C64-A8DA-F8F7172898BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96119F40-F050-4C64-A8DA-F8F7172898BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA59380-764C-475E-ACC1-9A4BE2E1E420}
+	EndGlobalSection
+EndGlobal

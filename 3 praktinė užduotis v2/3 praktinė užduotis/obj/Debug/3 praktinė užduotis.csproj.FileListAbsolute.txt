@@ -1,0 +1,10 @@
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\bin\Debug\3 praktinė užduotis.exe.config
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\bin\Debug\3 praktinė užduotis.exe
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\bin\Debug\3 praktinė užduotis.pdb
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\3 praktinė užduotis.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\_3_praktinė_užduotis.Form1.resources
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\_3_praktinė_užduotis.Properties.Resources.resources
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\3 praktinė užduotis.csproj.GenerateResource.cache
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\3 praktinė užduotis.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\3 praktinė užduotis.exe
+C:\Users\Jacob\Desktop\3 praktinė užduotis\3 praktinė užduotis\obj\Debug\3 praktinė užduotis.pdb
